@@ -1,0 +1,7 @@
+{  
+  "intents": [  
+    { "intent": "movePlayerIntent", "slots": [{ "name": "direction", "type": "LIST_OF_DIRECTIONS" }] },
+    { "intent": "interactObjectIntent", "slots": [{ "name": "item", "type": "LIST_OF_ITEMS" }] },
+    { "intent": "AMAZON.HelpIntent", "slots": [] }
+  ]  
+}

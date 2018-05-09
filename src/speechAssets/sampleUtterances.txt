@@ -1,0 +1,39 @@
+movePlayerIntent move {direction}
+movePlayerIntent go {direction}
+movePlayerIntent to {direction}
+movePlayerIntent go to {direction}
+
+takeItemIntent get the {item}
+takeItemIntent take the {item}
+takeItemIntent pick up the {item}
+takeItemIntent keep the {item}
+takeItemIntent get {item}
+takeItemIntent take {item}
+takeItemIntent pick up {item}
+takeItemIntent keep {item}
+
+dropItemIntent drop the {item}
+dropItemIntent put down the {item}
+dropItemIntent discard the {item}
+dropItemIntent dump the {item}
+dropItemIntent drop {item}
+dropItemIntent put down {item}
+dropItemIntent discard {item}
+dropItemIntent dump {item}
+
+lookAroundIntent look
+lookAroundIntent look around
+
+helpTheUserWithMovement help with movement
+helpTheUserWithMovement help with moving
+helpTheUserWithMovement help me with movement
+helpTheUserWithMovement help me with moving
+
+helpTheUserWithObjects help with objects
+helpTheUserWithObjects help with items
+helpTheUserWithObjects help me with objects
+helpTheUserWithObjects help me with items
+
+returnToGame go back
+returnToGame go back to the game
+returnToGame return to game

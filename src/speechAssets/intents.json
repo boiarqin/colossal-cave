@@ -1,0 +1,24 @@
+{  
+  "intents": [  
+    { "intent": "movePlayerIntent", "slots": [
+      { "name": "direction", "type": "LIST_OF_DIRECTIONS" }
+    ]
+    },
+    { "intent": "takeItemIntent", "slots": [
+      { "name": "item", "type": "LIST_OF_ITEMS" }
+    ] },
+    { "intent": "dropItemIntent", "slots": [
+      { "name": "item", "type": "LIST_OF_ITEMS" }
+    ] },
+    { "intent": "lookAroundIntent", "slots": [] },
+    { "intent": "AMAZON.HelpIntent", "slots": [] },
+    { "intent": "helpTheUser", "slots": [] },
+    { "intent": "helpTheUserWithMovement", "slots": [] },
+    { "intent": "helpTheUserWithObjects", "slots": [] },
+    { "intent": "returnToGame", "slots": [] },
+    { "intent": "AMAZON.YesIntent", "slots": [] },
+    { "intent": "AMAZON.NoIntent", "slots": [] },
+    { "intent": "AMAZON.CancelIntent", "slots": [] },
+    { "intent": "AMAZON.StopIntent", "slots": [] }
+  ]  
+}

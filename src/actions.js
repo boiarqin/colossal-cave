@@ -1,0 +1,756 @@
+module.exports = [{  
+   'key':2,
+   'value':'ROAD'
+},
+{  
+   'key':3,
+   'value':'ENTER'
+},
+{  
+   'key':3,
+   'value':'DOOR'
+},
+{  
+   'key':3,
+   'value':'GATE'
+},
+{  
+   'key':4,
+   'value':'UPSTR'
+},
+{  
+   'key':5,
+   'value':'DOWNS'
+},
+{  
+   'key':6,
+   'value':'FORES'
+},
+{  
+   'key':7,
+   'value':'FORWA'
+},
+{  
+   'key':7,
+   'value':'CONTI'
+},
+{  
+   'key':7,
+   'value':'ONWAR'
+},
+{  
+   'key':8,
+   'value':'BACK'
+},
+{  
+   'key':8,
+   'value':'RETUR'
+},
+{  
+   'key':8,
+   'value':'RETRE'
+},
+{  
+   'key':9,
+   'value':'VALLE'
+},
+{  
+   'key':10,
+   'value':'STAIR'
+},
+{  
+   'key':11,
+   'value':'OUT'
+},
+{  
+   'key':11,
+   'value':'OUTSI'
+},
+{  
+   'key':11,
+   'value':'EXIT'
+},
+{  
+   'key':11,
+   'value':'LEAVE'
+},
+{  
+   'key':12,
+   'value':'BUILD'
+},
+{  
+   'key':12,
+   'value':'BLD'
+},
+{  
+   'key':12,
+   'value':'HOUSE'
+},
+{  
+   'key':13,
+   'value':'GULLY'
+},
+{  
+   'key':14,
+   'value':'STREA'
+},
+{  
+   'key':15,
+   'value':'ROCK'
+},
+{  
+   'key':16,
+   'value':'BED'
+},
+{  
+   'key':17,
+   'value':'CRAWL'
+},
+{  
+   'key':18,
+   'value':'COBBL'
+},
+{  
+   'key':19,
+   'value':'INWAR'
+},
+{  
+   'key':19,
+   'value':'INSID'
+},
+{  
+   'key':19,
+   'value':'IN'
+},
+{  
+   'key':20,
+   'value':'SURFA'
+},
+{  
+   'key':21,
+   'value':'NULL'
+},
+{  
+   'key':21,
+   'value':'NOWHE'
+},
+{  
+   'key':22,
+   'value':'DARK'
+},
+{  
+   'key':23,
+   'value':'PASSA'
+},
+{  
+   'key':24,
+   'value':'LOW'
+},
+{  
+   'key':25,
+   'value':'CANYO'
+},
+{  
+   'key':26,
+   'value':'AWKWA'
+},
+{  
+   'key':29,
+   'value':'UPWAR'
+},
+{  
+   'key':29,
+   'value':'UP'
+},
+{  
+   'key':29,
+   'value':'U'
+},
+{  
+   'key':29,
+   'value':'ABOVE'
+},
+{  
+   'key':30,
+   'value':'D'
+},
+{  
+   'key':30,
+   'value':'DOWNW'
+},
+{  
+   'key':30,
+   'value':'DOWN'
+},
+{  
+   'key':31,
+   'value':'PIT'
+},
+{  
+   'key':32,
+   'value':'OUTDO'
+},
+{  
+   'key':33,
+   'value':'CRACK'
+},
+{  
+   'key':34,
+   'value':'STEPS'
+},
+{  
+   'key':35,
+   'value':'DOME'
+},
+{  
+   'key':36,
+   'value':'LEFT'
+},
+{  
+   'key':37,
+   'value':'RIGHT'
+},
+{  
+   'key':38,
+   'value':'HALL'
+},
+{  
+   'key':39,
+   'value':'JUMP'
+},
+{  
+   'key':40,
+   'value':'MAGIC'
+},
+{  
+   'key':41,
+   'value':'OVER'
+},
+{  
+   'key':42,
+   'value':'ACROS'
+},
+{  
+   'key':43,
+   'value':'EAST'
+},
+{  
+   'key':44,
+   'value':'WEST'
+},
+{  
+   'key':45,
+   'value':'NORTH'
+},
+{  
+   'key':46,
+   'value':'SOUTH'
+},
+{  
+   'key':47,
+   'value':'SLIT'
+},
+{  
+   'key':48,
+   'value':'XYZZY'
+},
+{  
+   'key':49,
+   'value':'DEPRE'
+},
+{  
+   'key':50,
+   'value':'ENTRA'
+},
+{  
+   'key':51,
+   'value':'DEBRI'
+},
+{  
+   'key':52,
+   'value':'HOLE'
+},
+{  
+   'key':53,
+   'value':'WALL'
+},
+{  
+   'key':54,
+   'value':'BROKE'
+},
+{  
+   'key':55,
+   'value':'Y2'
+},
+{  
+   'key':56,
+   'value':'CLIMB'
+},
+{  
+   'key':57,
+   'value':'LOOK'
+},
+{  
+   'key':57,
+   'value':'EXAMI'
+},
+{  
+   'key':57,
+   'value':'TOUCH'
+},
+{  
+   'key':57,
+   'value':'LOOKA'
+},
+{  
+   'key':58,
+   'value':'FLOOR'
+},
+{  
+   'key':59,
+   'value':'ROOM'
+},
+{  
+   'key':60,
+   'value':'NE'
+},
+{  
+   'key':61,
+   'value':'SLAB'
+},
+{  
+   'key':61,
+   'value':'SLABR'
+},
+{  
+   'key':62,
+   'value':'SE'
+},
+{  
+   'key':63,
+   'value':'SW'
+},
+{  
+   'key':64,
+   'value':'NW'
+},
+{  
+   'key':65,
+   'value':'PLUGH'
+},
+{  
+   'key':66,
+   'value':'SECRE'
+},
+{  
+   'key':67,
+   'value':'CAVE'
+},
+{  
+   'key':68,
+   'value':'TURN'
+},
+{  
+   'key':69,
+   'value':'CROSS'
+},
+{  
+   'key':70,
+   'value':'BEDQU'
+},
+{  
+   'key':1001,
+   'value':'KEYS'
+},
+{  
+   'key':1001,
+   'value':'KEY'
+},
+{  
+   'key':1002,
+   'value':'LAMP'
+},
+{  
+   'key':1002,
+   'value':'HEADL'
+},
+{  
+   'key':1003,
+   'value':'GRATE'
+},
+{  
+   'key':1004,
+   'value':'CAGE'
+},
+{  
+   'key':1005,
+   'value':'ROD'
+},
+{  
+   'key':1006,
+   'value':'STEPS'
+},
+{  
+   'key':1007,
+   'value':'BIRD'
+},
+{  
+   'key':1010,
+   'value':'NUGGE'
+},
+{  
+   'key':1010,
+   'value':'GOLD'
+},
+{  
+   'key':1011,
+   'value':'SNAKE'
+},
+{  
+   'key':1012,
+   'value':'FISSU'
+},
+{  
+   'key':1013,
+   'value':'DIAMO'
+},
+{  
+   'key':1014,
+   'value':'SILVE'
+},
+{  
+   'key':1014,
+   'value':'BARS'
+},
+{  
+   'key':1015,
+   'value':'JEWEL'
+},
+{  
+   'key':1016,
+   'value':'COINS'
+},
+{  
+   'key':1017,
+   'value':'DWARV'
+},
+{  
+   'key':1017,
+   'value':'DWARF'
+},
+{  
+   'key':1018,
+   'value':'KNIFE'
+},
+{  
+   'key':1018,
+   'value':'KNIVE'
+},
+{  
+   'key':1018,
+   'value':'ROCK'
+},
+{  
+   'key':1018,
+   'value':'WEAPO'
+},
+{  
+   'key':1018,
+   'value':'BOULD'
+},
+{  
+   'key':1019,
+   'value':'FOOD'
+},
+{  
+   'key':1019,
+   'value':'RATIO'
+},
+{  
+   'key':1020,
+   'value':'WATER'
+},
+{  
+   'key':1020,
+   'value':'BOTTL'
+},
+{  
+   'key':1021,
+   'value':'AXE'
+},
+{  
+   'key':1022,
+   'value':'KNIFE'
+},
+{  
+   'key':1023,
+   'value':'CHEST'
+},
+{  
+   'key':1023,
+   'value':'BOX'
+},
+{  
+   'key':1023,
+   'value':'TREAS'
+},
+{  
+   'key':2001,
+   'value':'TAKE'
+},
+{  
+   'key':2001,
+   'value':'CARRY'
+},
+{  
+   'key':2001,
+   'value':'KEEP'
+},
+{  
+   'key':2001,
+   'value':'PICKU'
+},
+{  
+   'key':2001,
+   'value':'PICK'
+},
+{  
+   'key':2001,
+   'value':'WEAR'
+},
+{  
+   'key':2001,
+   'value':'CATCH'
+},
+{  
+   'key':2001,
+   'value':'STEAL'
+},
+{  
+   'key':2001,
+   'value':'CAPTU'
+},
+{  
+   'key':2001,
+   'value':'FIND'
+},
+{  
+   'key':2001,
+   'value':'WHERE'
+},
+{  
+   'key':2001,
+   'value':'GET'
+},
+{  
+   'key':2002,
+   'value':'RELEA'
+},
+{  
+   'key':2002,
+   'value':'FREE'
+},
+{  
+   'key':2002,
+   'value':'DISCA'
+},
+{  
+   'key':2002,
+   'value':'DROP'
+},
+{  
+   'key':2002,
+   'value':'DUMP'
+},
+{  
+   'key':2003,
+   'value':'DUMMY'
+},
+{  
+   'key':2004,
+   'value':'UNLOC'
+},
+{  
+   'key':2004,
+   'value':'OPEN'
+},
+{  
+   'key':2004,
+   'value':'LIFT'
+},
+{  
+   'key':2005,
+   'value':'NOTHI'
+},
+{  
+   'key':2005,
+   'value':'HOLD'
+},
+{  
+   'key':2006,
+   'value':'LOCK'
+},
+{  
+   'key':2006,
+   'value':'CLOSE'
+},
+{  
+   'key':2007,
+   'value':'LIGHT'
+},
+{  
+   'key':2007,
+   'value':'ON'
+},
+{  
+   'key':2008,
+   'value':'EXTIN'
+},
+{  
+   'key':2008,
+   'value':'OFF'
+},
+{  
+   'key':2009,
+   'value':'STRIK'
+},
+{  
+   'key':2010,
+   'value':'CALM'
+},
+{  
+   'key':2010,
+   'value':'WAVE'
+},
+{  
+   'key':2010,
+   'value':'SHAKE'
+},
+{  
+   'key':2010,
+   'value':'SING'
+},
+{  
+   'key':2010,
+   'value':'CLEAV'
+},
+{  
+   'key':2011,
+   'value':'WALK'
+},
+{  
+   'key':2011,
+   'value':'RUN'
+},
+{  
+   'key':2011,
+   'value':'TRAVE'
+},
+{  
+   'key':2011,
+   'value':'GO'
+},
+{  
+   'key':2011,
+   'value':'PROCE'
+},
+{  
+   'key':2011,
+   'value':'CONTI'
+},
+{  
+   'key':2011,
+   'value':'EXPLO'
+},
+{  
+   'key':2011,
+   'value':'GOTO'
+},
+{  
+   'key':2011,
+   'value':'FOLLO'
+},
+{  
+   'key':2012,
+   'value':'ATTAC'
+},
+{  
+   'key':2012,
+   'value':'KILL'
+},
+{  
+   'key':2012,
+   'value':'STAB'
+},
+{  
+   'key':2012,
+   'value':'FIGHT'
+},
+{  
+   'key':2012,
+   'value':'HIT'
+},
+{  
+   'key':2013,
+   'value':'POUR'
+},
+{  
+   'key':2014,
+   'value':'EAT'
+},
+{  
+   'key':2015,
+   'value':'DRINK'
+},
+{  
+   'key':2016,
+   'value':'RUB'
+},
+{  
+   'key':3050,
+   'value':'OPENS'
+},
+{  
+   'key':3051,
+   'value':'HELP'
+},
+{  
+   'key':3051,
+   'value':'?'
+},
+{  
+   'key':3051,
+   'value':'WHAT'
+},
+{  
+   'key':3064,
+   'value':'TREE'
+},
+{  
+   'key':3066,
+   'value':'DIG'
+},
+{  
+   'key':3066,
+   'value':'EXCIV'
+},
+{  
+   'key':3067,
+   'value':'BLAST'
+},
+{  
+   'key':3068,
+   'value':'LOST'
+},
+{  
+   'key':3069,
+   'value':'MIST'
+},
+{  
+   'key':3049,
+   'value':'THROW'
+},
+{  
+   'key':3079,
+   'value':'FUCK'
+}];

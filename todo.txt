@@ -1,0 +1,32 @@
+TODO
+
+use items
+special action list - mist, excive?
+add regular actions, based on new speech additions
+read out inventory
+
+
+travel
+COND 
+dwarf stuff
+place descriptor
+get new location
+DO NEXT INPUT
+ANY INPUT
+Carry
+	-if it's a weapon, say ok
+	-if it's != J, say ok
+	
+Lock/Unlock (no object yet)
+Discard object
+lock/unlock object
+light lamp
+lamp off
+strike
+attack
+eat
+drink
+rub
+pour
+
+grunt or gulp command to zip up the project
